@@ -1,0 +1,15 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Scikit-Learn and Imbalanced-Learn
+scikit-learn
+imbalanced-learn
+
+# XGBoost
+xgboost
+
